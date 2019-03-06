@@ -2,7 +2,7 @@
 
 This JavaScript library can be used to draw somewhat realistic lunar or planetary discs, complete with phase shadows:
 
-![example](http://codebox.org.uk/graphics/planet-phase-example.png)
+![example](http://codebox.org.uk/assets/images/planet-phase-example.png)
 
 The library requires that browsers support the CSS `border-radius` and `box-shadow` properties, which means it [should work everywhere except IE8 (and earlier)](http://caniuse.com/#feat=css-boxshadow).
 
